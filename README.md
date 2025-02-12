@@ -14,7 +14,7 @@ ASP.NET Core MVC application for employee management using Entity Framework Core
   Clone the repository:
   git clone https://github.com/YOUR_REPOSITORY.git
   cd YOUR_REPOSITORY
-=======
+
 # ASO.NET_CRUD_AZURE_Database
 1 Creating an MVC Application 
 2 Using ViewBag & SelectList for Dynamic Form Population 
